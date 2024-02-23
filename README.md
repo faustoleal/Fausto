@@ -11,10 +11,10 @@ Herramientas
 
 Version de Escritorio
 
-![Escritorio](img/portafolio-desktop.png)
+![Escritorio](./src/img/portafolio-desktop.png)
 
 Version Mobile
 
-![Mobile](img/portafolio-mobile.png)
+![Mobile](./src/img/portafolio-mobile.png)
 
-[Ver pagina](https://faustoleal.github.io/tasty-app/)
+[Ver pagina](https://faustoleal.github.io/Fausto/)
