@@ -25,7 +25,7 @@ const Navbar = () => {
       <a href="https://www.linkedin.com/in/fausto-leal-/" target="_blank">
         <FontAwesomeIcon icon={faLinkedinIn} className="span" />
       </a>
-      <a href="src/cv/cv-itEN.pdf" download="mi-cv">
+      <a href="./src/cv/cv-itEN.pdf" download="mi-cv">
         <DownloadIcon className="span" />
       </a>
     </nav>
