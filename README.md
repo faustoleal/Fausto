@@ -1,8 +1,20 @@
-# React + Vite
+# Portafolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Herramientas
 
-Currently, two official plugins are available:
+- HTML
+- CSS
+- React.js
+- Vite.js
+- FontAwesome
+- Material UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Version de Escritorio
+
+![Escritorio](img/portafolio-desktop.png)
+
+Version Mobile
+
+![Mobile](img/portafolio-mobile.png)
+
+[Ver pagina](https://faustoleal.github.io/tasty-app/)
